@@ -37,5 +37,3 @@ top10 = df.head(10)
 
 ![alt text](<visuals/top-10 by ID.png>)
 
-
-
